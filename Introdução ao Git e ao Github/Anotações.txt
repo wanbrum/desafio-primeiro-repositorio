@@ -1,0 +1,6 @@
+Anotações 
+
+Bootcamp DIO/Spread
+Link úteis:
+[Instalando GIT no Ubuntu 21.04] (https://www.linuxcapable.com/pt/how-to-install-upgrade-git-on-ubuntu-22-04-lts/)
+
