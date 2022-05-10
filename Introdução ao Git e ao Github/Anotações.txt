@@ -1,6 +1,45 @@
 Anotações 
 
 Bootcamp DIO/Spread
-Link úteis:
-[Instalando GIT no Ubuntu 21.04] (https://www.linuxcapable.com/pt/how-to-install-upgrade-git-on-ubuntu-22-04-lts/)
+
+Git é um sistema de gestão de versionamento distribuido que permite preservar anotações relativas a todas as etapas de desenvolvimento do projeto.
+
+
+Primeiros comandos com GIT
+
+- Inciar o GIT
+
+git init = inicia o repositório do Git
+
+git add = para mover arquivos.
+
+git commit = criar um commit
+
+- Inciar o versionamento 
+- Criar um command
+
+Criando um repositório 
+
+mkdir ‘nome do repositório/escolhemos “receita”’
+
+iniciando GIT no diretório, comando: 
+
+git init 
+
+Repositório exibido no terminal: 
+
+Repositório vazio GIT inicializando em home/Maleta/receitas/.git/
+
+Ao se inserir o comando ls (listar = exibe conteúdo do diretório), não exibirá o arquivo .git, por se tratar de pasta oculta, para tanto será necessário utilizar o comando:
+
+ls -a
+
+o terminar exibirá a seguinte mensagem:
+.  ..  .git
+
+Ao se acessar o diretório .git, e inserir o comando ls, será exibida a seguinte mensagem:
+
+branches config descrption HEAD  hooks  info  objects  refs 
+
+
 
